@@ -1,0 +1,12 @@
+.*.google.com 
+.*.gstatic.com 
+.*.mozilla.com 
+.*.googleapis.com 
+.*.pki.goog 
+.*.mozilla.org 
+http://wpad/wpad.dat 
+.*.mozilla.net 
+.*.ocsp.pki.goog 
+.*.google.co.in 
+.*.doubleclick.net 
+.*.digicert.com
